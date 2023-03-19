@@ -11,4 +11,4 @@ Hi there! My name is Julius, a 24-year-old web developer residing in Berlin, Ger
 <br />
 
 ![Photo of Speedy](/assets/speedy.jpeg)
-<p align="center" style="opacity:50%;">(my dog Speedy)
+<p align="center">(my dog Speedy)
